@@ -28,18 +28,23 @@
    - Pie Chart → Online Delivery Distribution
    -Line Chart → Average Cost by City
 
- 5. Key Insights
+5. Dashboard Preview
+   
+   https://public.tableau.com/app/profile/harshal.rokade/viz/ZomatoDashboard_17770298445860/Dashboard1?publish=yes
+
+ 6. Key Insights
 
    * Restaurants with higher votes tend to have better ratings
    * Major cities have a higher number of restaurants
    * Online delivery is widely available
    * Cost varies significantly across locations
 
-6.Tools Used
-    Tableau (Data Visualization)
+7.Tools Used
+
+   Tableau (Data Visualization)
 
 
-#Conclusion
+8.Conclusion
 
 This project demonstrates how data visualization can transform raw data into actionable insights for better decision-making in the food industry.
 
